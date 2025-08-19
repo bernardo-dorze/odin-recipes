@@ -1,1 +1,1 @@
-# odin-recipes
+This project its a just a basic recipe website and was created with the goal of showing the bases of html such as: elements, attributes, boilerplate and structure.
